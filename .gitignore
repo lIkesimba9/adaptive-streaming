@@ -6,3 +6,4 @@ cmake-build-debug
 scripts/
 screenshots/
 apstreamline.code-workspace
+build-stream_server-Desktop-Debug/
